@@ -1,7 +1,6 @@
-# data-analyst-internship-task2
-Data Visualization and Storytelling using Power BI on Superstore Sales dataset. Task 2 of Data Analyst Internship.
 # Task 2: Data Visualization and Storytelling
 ## Data Analyst Internship - Elevate Labs
+Data Visualization and Storytelling using Power BI on Superstore Sales dataset. Task 2 of Data Analyst Internship
 
 ## Objective
 Create interactive visualizations that convey a compelling sales story 
